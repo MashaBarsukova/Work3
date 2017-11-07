@@ -1,0 +1,35 @@
+body {
+  background-image: url("../images/image1.jpg");
+}
+div {
+  font-family: Arial;
+}
+.colorblue {
+  color: #263555;
+}
+.wrapper {
+  width: 440px;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding: 50px;
+  background-color: #fff;
+}
+.block {
+  width: 440px;
+  line-height: 2.5;
+  padding-top: 20px;
+}
+.block li {
+  display: inline-block;
+  width: 190px;
+  padding-left: 5px;
+  padding-right: 5px;
+  list-style: none;
+}
+.block2 {
+  padding-top: 20px;
+}
+.offer {
+  padding-top: 20px;
+}
