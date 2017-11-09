@@ -1,0 +1,29 @@
+div {
+  font-family: Arial;
+}
+.colorblue {
+  color: #263555;
+}
+.wrapper {
+  width: 440px;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding: 50px;
+  background-color: #fff;
+}
+  h2.colorblue {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: xx-large;
+    font-weight: 100;
+  }
+  h3.colorblue {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-weight: 100;
+  }
+img {
+  width: 400px;
+}
+li {
+  list-style-image: url("../images/module-3-task-5-list.png");
+}

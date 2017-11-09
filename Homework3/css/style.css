@@ -27,9 +27,11 @@ div {
   padding-right: 5px;
   list-style: none;
 }
-.block2 {
-  padding-top: 20px;
+h2.colorblue {
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: xx-large;
+  font-weight: 100;
 }
-.offer {
-  padding-top: 20px;
+h3.colorblue {
+  font-weight: 100;
 }
